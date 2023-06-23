@@ -3,3 +3,5 @@ Tiger
 Beer
 Elephant
 Monkey
+Leopard
+Panda
