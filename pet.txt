@@ -1,6 +1,8 @@
 Cow
 Rabbit
 Cat
-Snake
 Horse
 Hen
+Duck
+Rat
+
