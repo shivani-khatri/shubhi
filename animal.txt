@@ -5,3 +5,6 @@ Elephant
 Monkey
 Leopard
 Panda
+Gorilla
+Hippopotamus
+Fox
